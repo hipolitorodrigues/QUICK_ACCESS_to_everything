@@ -4,7 +4,7 @@
 
 **QuickLink** is a desktop application developed in Python using Tkinter with the `ttkbootstrap` theme and an SQLite database. Its main goal is to provide a fast and organized way to store and access your favorite websites and archives. With an intuitive interface, you can add links, associate images for easy visual identification, and organize your links across multiple pages.
 
-![alt text](https://github.com/hipolitorodrigues/assets-for-github/blob/d85d0454f48ea999edf51fae8b60d1c60cccbb5e/images/01/img-quick_link.png-03.png)
+![](img-qate.png)
 
 ## Key Features
 
@@ -38,8 +38,6 @@
 ## Make your own icons
 
 * **"assets\make-your-own-icons.svg"** is the svg file used to create the images. Use this if you want a starting point for creating your own icons.
-
-![alt text](https://github.com/hipolitorodrigues/assets-for-github/blob/f8c9163576758f2755398a11c37da2d4cc21b373/images/01/img-quick_link.png-02.png)
 
 ## Technologies Used
 
@@ -92,6 +90,6 @@ QuickLink/
 
 This project is licensed under the MIT License. This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, as long as you include the original copyright notice and license in all copies or substantial portions.
 
-* **Asset folder icons:** Example icons were downloaded from [svgrepo.com](https://www.svgrepo.com/).
+* **Asset folder icons:** Some example icons were downloaded from the website [svgrepo.com](https://www.svgrepo.com/), others were created by me.
 
 ---
